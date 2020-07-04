@@ -1,2 +1,2 @@
 # Color-game
-RGB color guessing game
+RGB color guessing game https://vaasu11.github.io/
